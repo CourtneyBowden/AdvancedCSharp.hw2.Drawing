@@ -1,0 +1,18 @@
+c:\users\courtney\documents\visual studio 2013\Projects\hw2.bowden\hw2.bowden\bin\Debug\hw2.bowden.exe.config
+C:\Users\Courtney\documents\visual studio 2013\Projects\hw2.bowden\hw2.bowden\bin\Debug\hw2.bowden.exe
+C:\Users\Courtney\documents\visual studio 2013\Projects\hw2.bowden\hw2.bowden\bin\Debug\hw2.bowden.pdb
+C:\Users\Courtney\documents\visual studio 2013\Projects\hw2.bowden\hw2.bowden\obj\Debug\hw2.bowden.csprojResolveAssemblyReference.cache
+C:\Users\Courtney\documents\visual studio 2013\Projects\hw2.bowden\hw2.bowden\obj\Debug\hw2.bowden.frmDraw.resources
+C:\Users\Courtney\documents\visual studio 2013\Projects\hw2.bowden\hw2.bowden\obj\Debug\hw2.bowden.Properties.Resources.resources
+C:\Users\Courtney\documents\visual studio 2013\Projects\hw2.bowden\hw2.bowden\obj\Debug\hw2.bowden.csproj.GenerateResource.Cache
+C:\Users\Courtney\documents\visual studio 2013\Projects\hw2.bowden\hw2.bowden\obj\Debug\hw2.bowden.exe
+C:\Users\Courtney\documents\visual studio 2013\Projects\hw2.bowden\hw2.bowden\obj\Debug\hw2.bowden.pdb
+C:\csharp\hw.2\courtney\hw2.bowden\bin\Debug\hw2.bowden.exe.config
+C:\csharp\hw.2\courtney\hw2.bowden\obj\Debug\hw2.bowden.exe
+C:\csharp\hw.2\courtney\hw2.bowden\obj\Debug\hw2.bowden.pdb
+C:\csharp\hw.2\courtney\hw2.bowden\bin\Debug\hw2.bowden.exe
+C:\csharp\hw.2\courtney\hw2.bowden\bin\Debug\hw2.bowden.pdb
+C:\csharp\hw.2\courtney\hw2.bowden\obj\Debug\hw2.bowden.csprojResolveAssemblyReference.cache
+C:\csharp\hw.2\courtney\hw2.bowden\obj\Debug\hw2.bowden.frmDraw.resources
+C:\csharp\hw.2\courtney\hw2.bowden\obj\Debug\hw2.bowden.Properties.Resources.resources
+C:\csharp\hw.2\courtney\hw2.bowden\obj\Debug\hw2.bowden.csproj.GenerateResource.Cache
